@@ -1,0 +1,232 @@
+.body{
+	background-color: #484848 ;
+	margin: 0px 20px 0px 20px;
+	text-decoration: none;
+
+}
+A:link {text-decoration: none}
+A:visited {text-decoration: none}
+A:active {text-decoration: none}
+A:hover {text-decoration: underline; color: red;}
+
+#inner_body {
+    background-color: #FFFFFF ;	
+    position: absolute;
+	
+	
+    left: 15%;
+    height: 1025px;
+	width: 900px;
+	text-decoration: none;
+
+	
+}
+
+#logo{
+	position: absolute;
+    left: 18%;
+	width: 75%;
+
+	
+	text-align: center;
+
+}
+
+#navigate{
+	position: absolute;
+    top: 22.5%;
+	width: 80%;
+	left: 10%; 
+	text-align: center;
+
+}
+
+#dealer_banner{
+	position: absolute;
+    top: 25%;
+	width: 80%;
+	left: 10%; 
+	text-align: center;
+
+}
+
+#part_navigate{
+	position: absolute;
+    top: 25%;
+	width: 80%;
+	left: 10%; 
+
+	text-align: center;
+
+}
+
+#discount_banner{
+	position: absolute;
+    top: 25%;
+	width: 80%;
+	left: 10%; 
+		font-size: 100%;
+	text-align: center;
+
+}
+
+#discount_links{
+	position: absolute;
+    top: 29%;
+	width: 80%;
+	left: 10%; 
+
+
+}
+
+
+#motto{
+	position: absolute;
+    top: 25.5%;
+	width: 40%;
+	right: 10%;
+	font-style: italic ;
+	text-align: center;
+	font-weight: bold;
+	font-size: 150%;
+
+}
+
+#slide{
+	position: absolute;
+    top: 37.5%;
+	
+	right: 15%;
+	font-style: italic ;
+	text-align: center;
+
+}
+
+#contact_motto{
+	position: absolute;
+    top: 25.5%;
+	width: 40%;
+	right: 30%;
+	font-style: italic ;
+
+
+}
+
+#service_motto{
+	position: absolute;
+    top: 33.5%;
+	width: 40%;
+	right: 10%;
+	font-style: italic ;
+	text-align: center;
+	font-weight: bold;
+	font-size: 150%;
+
+
+}
+
+#map_image{
+	position: absolute;
+    top: 43%;
+	width: 40%;
+	right: 15%;
+	font-style: italic ;
+	text-align: right;
+
+}
+
+#mailform{
+	position: absolute;
+    top: 31%;
+	width: 40%;
+	right: 10%;
+	text-align: center;
+
+}
+
+#about_text{
+	position: absolute;
+    top: 25.5%;
+	width: 40%;
+	left: 10%;
+	font-size: large;
+	text-align: left;
+	text-indent: 10px;
+    line-height: 120%;
+}
+
+#service_desc{
+	position: absolute;
+    top: 33.5%;
+	width: 40%;
+	left: 10%;
+	font-size: large;
+	text-align: left;
+	text-indent: 10px;
+    line-height: 120%;
+}
+#disclaimer{
+	position: absolute;
+    top: 79%;
+	width: 650px;
+	left: 10%;
+	text-align: center;
+	 font-size: medium;
+    line-height: 120%;
+	
+	color: Gray;
+}
+
+#inner_body div.parts{
+position: absolute;
+overflow: auto;
+height: 400px;
+width: 750px;
+top: 31%;
+left: 10%;
+
+}
+
+#footer{
+	
+	position: absolute;
+    bottom: 8%;
+	width: 80%;
+	left: 10%; 
+
+}
+#contact_info{
+	position: absolute;
+    bottom: 5.8%;
+	width: 80%;
+	left: 10%;
+	text-align: center;
+	text-decoration: none;
+	
+	
+}
+
+#accepted_payments{
+	
+    
+	position: absolute;
+    bottom: 1%;
+	width: 80%;
+	left: 10%;
+	text-align: center;
+	text-decoration: none;
+	clear:both;
+	
+	
+}
+
+#copyright_info{
+	
+	font-size: small;
+	color: gray;
+}
+
+#swing_pop{
+
+	color: white;
+}
